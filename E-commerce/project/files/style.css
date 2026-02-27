@@ -342,8 +342,8 @@ animation-delay: 0.3s;
 margin-bottom:20px;
 }			
 .cata-selection{
-width:80%;
-padding:10px 20px;
+width:85%;
+padding:10px 15px;
 background-color: var(--p-d-clr);
 border-radius: 10px;
 margin: auto;
@@ -356,7 +356,7 @@ align-items: center;
 	cursor:pointer;
 	color:var(--p-l-clr);
 	font-family:Inika;
-	font-size: 0.8rem;
+	font-size:0.7rem;
 	padding:2% 3%;
 	text-align: center;
 	border-radius: 5px;
